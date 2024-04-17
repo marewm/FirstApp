@@ -4,7 +4,7 @@
 #include <iostream>
 
 class Figure {
-
+  // SOME COMMENT
 };
 
 int main() {
