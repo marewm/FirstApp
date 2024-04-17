@@ -1,7 +1,7 @@
 //
 // Created by Mariia Gordenko on 17.04.2024.
 //
-#include <iostream>
+#include <iostream>//6789
 #include <string>
 
 class Figure {
